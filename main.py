@@ -1,2 +1,2 @@
-print("zabi lajhjhjsfsdfsfwda")
+print("zabi lajhjsadfasfhjwda")
 
