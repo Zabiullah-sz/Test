@@ -6,7 +6,7 @@ shaasha
 
 
 fnct1(){
-    
+    kooni zabi looch asta
 }
 
 
